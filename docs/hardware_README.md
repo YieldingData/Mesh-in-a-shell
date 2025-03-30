@@ -25,14 +25,14 @@ This document provides a complete list of hardware components used in the Mesh i
 ### 3. **Wio-E5 SX1262 LoRa Module**
 - Role: Handles mesh networking using LoRa communication.
 - Specs: Semtech SX1262, long-range low-power radio.
-- GitHub: [https://github.com/Seeed-Studio/Wio-E5-LoRa-Module](https://wiki.seeedstudio.com/wio_sx1262_with_xiao_esp32s3_kit)
+- Docs: [Seeed-Studio/SX1262-LoRa-Module](https://wiki.seeedstudio.com/wio_sx1262_with_xiao_esp32s3_kit)
 
 ---
 
 ### 4. **Waveshare 2.9" Touch E-Paper Display HAT**
 - Role: User interface display, used by both ESP32 and Orange Pi.
 - Specs: 296x128 resolution, capacitive touch, SPI + I2C.
-- GitHub: https://github.com/waveshare/2.9inch-e-Paper
+- Docs: [2.9inch-e-Paper Touch Screen](https://www.waveshare.com/wiki/2.9inch_Touch_e-Paper_HAT_Manual#Resources)
 
 ---
 
