@@ -4,7 +4,35 @@
 
 # Mesh in a Shell
 
-"And where does the newborn go from here? The net is vast and infinite."
+**Prologue**
+The wind doesn't carry messages anymore.
+Not in a world like this.
+
+Now, voices ride invisible waves—low and long—passing through forests, through concrete, through time.
+There’s no central server, no authority listening.
+Just the Mesh.
+
+It began as fragments—signal traces, whisper-nodes built by those who refused silence.
+No one asked permission.
+They built it anyway.
+Small. Quiet. Persistent.
+
+It doesn’t need speed.
+It doesn’t need light.
+Only intent.
+
+A fingertip on cold glass.
+A breath before a reply.
+And a spark of voltage inside a humble shell.
+
+Now the Mesh lives in the spaces between.
+Not everywhere. But anywhere.
+In any shell willing to carry it.
+And once you’re part of it,
+you’re never truly alone.
+
+"And where does the newborn go from here?
+The Net is vast and infinite."
 
 **Mesh in a Shell** is a low-power, off-grid communication device designed to send and receive messages over LoRa mesh networks. It combines:
 
