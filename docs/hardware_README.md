@@ -10,7 +10,7 @@ This document provides a complete list of hardware components used in the Mesh i
 ### 1. **XIAO ESP32-S3**
 - Role: Always-on microcontroller for power management, LoRa communication, GPS, and button input.
 - Specs: Dual-core, USB-C, 3.3V logic, supports deep sleep.
-- Docs: https://wiki.seeedstudio.com/XIAO_ESP32S3_Getting_Started/
+- Docs: [https://wiki.seeedstudio.com/XIAO_ESP32S3_Getting_Started/](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/)
 
 ---
 
