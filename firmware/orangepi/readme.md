@@ -45,10 +45,10 @@ A future feature will allow the Orange Pi to **automatically flash the ESP32-S3 
 
 This will be implemented during Orange Pi software development and is not part of the MVP.
 
-import json
+---
 
-with open("/home/pi/mesh-in-a-shell/config/mesh_config.json") as f:
-    config = json.load(f)
+## Configuration File
 
-if config["include_gps"]:
-    # Attach GPS data to outgoing message
+The Orange Pi supports user-defined settings using a JSON configuration file.
+
+/home/pi/mesh-in-a-shell/config/mesh_config.json
