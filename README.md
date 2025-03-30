@@ -34,6 +34,8 @@ you’re never truly alone.
 "And where does the newborn go from here?
 The Net is vast and infinite."
 
+---
+
 **Mesh in a Shell** is a low-power, off-grid communication device designed to send and receive messages over LoRa mesh networks. It combines:
 
 - An **ESP32-S3** as the always-on controller for power management, LoRa communication, and basic interaction
