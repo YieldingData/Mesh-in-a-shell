@@ -25,7 +25,7 @@ This document provides a complete list of hardware components used in the Mesh i
 ### 3. **Wio-E5 SX1262 LoRa Module**
 - Role: Handles mesh networking using LoRa communication.
 - Specs: Semtech SX1262, long-range low-power radio.
-- GitHub: https://github.com/Seeed-Studio/Wio-E5-LoRa-Module
+- GitHub: [https://github.com/Seeed-Studio/Wio-E5-LoRa-Module](https://wiki.seeedstudio.com/wio_sx1262_with_xiao_esp32s3_kit)
 
 ---
 
