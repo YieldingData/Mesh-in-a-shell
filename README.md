@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Asset/Mesh-in-a-shell.jpg" alt="Mesh in a Shell Logo" width="400">
+  <img src="assets/mesh-in-a-shell-logo.jpg" alt="Mesh in a Shell Logo" width="400">
 </p>
 
 # Mesh in a Shell
