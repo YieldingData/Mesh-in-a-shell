@@ -44,7 +44,7 @@
 
 ## [License](#license)
 
-MIT (or choose your preferred)
+unknown yet
 
 ---
 
