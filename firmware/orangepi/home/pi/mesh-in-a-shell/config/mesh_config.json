@@ -1,0 +1,8 @@
+{
+  "device_id": "MESH1234",
+  "include_gps": true,
+  "gps_ping_interval_minutes": 60,
+  "max_message_length": 160,
+  "auto_shutdown_minutes": 2,
+  "enable_llm": true
+}
