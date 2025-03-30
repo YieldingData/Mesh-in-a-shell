@@ -34,9 +34,13 @@ This directory contains the software that runs on the Orange Pi Zero 2W, which i
 
 ---
 
-## Future Expansion Ideas
+## Future Expansion: ESP32 Auto-Flasher
 
-- Microphone input for STT
-- Offline speech synthesis
-- Encrypted message queue
-- Remote firmware update triggers via mesh
+A future feature will allow the Orange Pi to **automatically flash the ESP32-S3 firmware** when an updated binary is placed on the SD card. This would enable rapid field updates or hands-free provisioning of new hardware.
+
+### Proposed Flow:
+1. On boot, Orange Pi looks for `/firmware/esp32s3/flash/firmware.bin`
+2. Uses `esptool.py` to flash firmware over UART/USB
+3. Logs result and optionally reboots ESP32-S3
+
+This will be implemented during Orange Pi software development and is not part of the MVP.
