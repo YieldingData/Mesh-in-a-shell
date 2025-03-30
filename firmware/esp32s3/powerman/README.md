@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/powerman_logo.png" alt="Power Man Logo" width="400">
+</p>
 # PowerMan – Power Management Module
 
 **PowerMan** is the power management module for the ESP32-S3 in the Mesh in a Shell system. It is responsible for controlling the power state of connected peripherals, especially the Orange Pi Zero 2W, and monitoring system readiness and shutdown.
