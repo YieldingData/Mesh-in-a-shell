@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../../../assets/powerman_logo.png" alt="Power Man Logo" width="400">
+  <img src="../../../assets/powerman_logo.png" alt="Power Man Logo" width="400">
 </p>
 # PowerMan – Power Management Module
 
