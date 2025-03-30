@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Asset/mesh-in-a-shell.jpg" alt="Mesh in a Shell Logo" width="400">
+  <img src="Asset/Mesh-in-a-shell.jpg" alt="Mesh in a Shell Logo" width="400">
 </p># Mesh in a Shell
 
 Mesh in a Shell is a low-power, off-grid communication device designed to send and receive messages over LoRa mesh networks. It combines:
