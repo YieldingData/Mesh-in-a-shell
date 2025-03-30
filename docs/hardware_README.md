@@ -18,7 +18,7 @@ This document provides a complete list of hardware components used in the Mesh i
 - Role: Powers full user interface, local LLM, and advanced tools.
 - Specs: Quad-core Cortex-A53, 512MB–1GB RAM, runs Linux.
 - GitHub: https://github.com/orangepi-xunlong
-- Docs: https://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-Zero-2W.html
+- Docs: [https://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-Zero-2W.html](http://www.orangepi.org/orangepiwiki/index.php/Orange_Pi_Zero_2W)
 
 ---
 
