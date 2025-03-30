@@ -4,7 +4,7 @@
 
 # Mesh in a Shell
 
-**Prologue**
+## [Prologue](#Prologue)
 The wind doesn't carry messages anymore.
 Not in a world like this.
 
