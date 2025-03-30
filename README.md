@@ -76,7 +76,7 @@ The Net is vast and infinite."
 
 ## [License](#license)
 
-unknown yet
+Mesh-in-a-shell is open-source software released under the MIT License. You are free to use, modify, and distribute it for personal and commercial projects.
 
 ---
 
