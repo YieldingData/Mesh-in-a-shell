@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../../../assets/picom_logo.png" alt="PiCom Logo" width="400">
+</p>
+
 # PiCom – ESP32 ↔ Orange Pi Communication Module
 
 This module, named **PiCom**, handles all communication between the ESP32-S3 and the Orange Pi Zero 2W within the Mesh in a Shell project. It enables data exchange, command signaling, and power coordination between the always-on microcontroller and the on-demand Linux system.
