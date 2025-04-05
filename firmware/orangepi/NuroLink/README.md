@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="../../../../assets/nurolink_logo.png" alt="PowerMan Logo" width="400">
+</p>
 # NuroLink is a Web Flasher Interface (Planned Feature)
 
 This is a proposed feature to make flashing firmware onto Mesh in a Shell devices simple, user-friendly, and accessible without needing development tools or coding knowledge.
