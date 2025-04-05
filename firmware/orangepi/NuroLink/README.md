@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../../../assets/nurolink_logo.png" alt="PowerMan Logo" width="400">
+  <img src="../../../assets/nurolink_logo.png" alt="PowerMan Logo" width="400">
 </p>
 # NuroLink is a Web Flasher Interface (Planned Feature)
 
