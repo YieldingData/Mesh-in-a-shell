@@ -7,7 +7,7 @@ This file contains a master index of daily development logs, organized by date.
 <summary><strong>View Daily Logs</strong></summary>
 
 - [2025-04-06 Initial-Assembly](/docs/build-journal/2025-04-06_initial-assembly.md)
-"""- [Add title here](/docs/andhere)"""
+- """- [Add title here](/docs/andhere)"""
 
 </details>
 
