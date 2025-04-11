@@ -3,7 +3,7 @@
 
 ## Milestone 1: Hardware Setup (Sessions 1–3)
 - **Task 1.1:** Confirm Hardware Inventory (Session 1)  
-  _Dependencies:_ None
+  _Dependencies:_ A finalized Bill of Materials (BOM) must be available, or be created as part of this task, to ensure accurate inventory confirmation.
 - **Task 1.2:** Wire Peripherals on Breadboard/Prototype (Session 2)  
   _Dependencies:_ Task 1.1
 - **Task 1.3:** Basic Power & Wiring Test (Session 3)  
