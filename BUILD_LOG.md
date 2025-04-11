@@ -6,8 +6,8 @@ This file contains a master index of daily development logs, organized by date.
 <details>
 <summary><strong>View Daily Logs</strong></summary>
 
-- [2025-04-06 Teat](/docs/build-journal/2025-04-06_initial-assembly.md)
-- [2025-04-09](/docs/build-journal/2025-04-09.md)
+- [2025-04-06 Test](/docs/build-journal/2025-04-06_initial-assembly.md)
+- [2025-04-09](/docs/build-journal/2025-04-11.md)
 - """- [Add title here](/docs/andhere)"""
 
 </details>
