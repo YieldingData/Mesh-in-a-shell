@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/Keys.png" alt="Keys Logo" width="400">
+</p>
 # Keys – Touchscreen Keyboard Module
 
 The `Keys` module provides a lightweight touchscreen keyboard interface for the *Mesh in a Shell* project, designed for use with a 2.9" Waveshare touch e-paper display. It allows users to input text in a compact and power-efficient UI environment.
