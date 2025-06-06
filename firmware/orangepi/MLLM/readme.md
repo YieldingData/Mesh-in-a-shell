@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="../../../assets/MLLM.png" alt="MLLM Logo" width="400">
+</p>
 # MLLM – Mesh Local Language Model
 
 **MLLM** (Mesh Local Language Model) is the embedded AI module within the *Mesh in a Shell* system. It provides local, offline language processing for composing messages, parsing commands, and rephrasing input using a small quantized LLM running directly on the Orange Pi Zero 2 W.
