@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../../../assets/Keys.png" alt="Keys Logo" width="400">
+  <img src="../../../assets/Keys.png" alt="Keys Logo" width="400">
 </p>
 # Keys – Touchscreen Keyboard Module
 
