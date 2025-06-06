@@ -1,5 +1,6 @@
 
 #include "picom.h"
+#include "../lora/lora.h"
 
 static Stream* piSerial = nullptr;
 static String incomingBuffer = "";
@@ -19,10 +20,9 @@ void processIncomingPiData() {
             if (!err) {
                 const char* type = doc["type"];
                 if (strcmp(type, "send_message") == 0) {
-                    // Handle message from Pi
-                    String msg = doc["msg"];
-                    bool include_gps = doc["include_gps"] | false;
-                    // TODO: forward msg to LoRa module, attach GPS if needed
+                    const char* text = doc["msg"] | "";
+                    const char* dest = doc["to"] | "FFFF";
+                    sendMeshText(dest, text);
                 }
                 // Add more commands as needed
             }

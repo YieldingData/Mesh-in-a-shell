@@ -40,9 +40,13 @@ This module, named **PiCom**, handles all communication between the ESP32-S3 and
 {
   "type": "send_message",
   "msg": "Roger that.",
+  "to": "FFFF",
   "include_gps": false
 }
 ```
+
+Packets of this type are converted to a MeshCore/Meshtastic packet and sent over
+LoRa via `sendMeshText()`.
 
 ---
 

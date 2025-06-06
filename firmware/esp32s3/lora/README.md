@@ -1,6 +1,6 @@
 # LoRa Module – Wio SX1262
 
-This module handles LoRa mesh communication for Mesh in a Shell using the Wio SX1262 module. It is responsible for sending and receiving messages, formatting them into structured packets, and enabling compatibility with MeshCore-based mesh networks.
+This module handles LoRa mesh communication for Mesh in a Shell using the Wio SX1262 module. It is responsible for sending and receiving messages, formatting them into structured packets, and enabling compatibility with both MeshCore-based networks and Meshtastic nodes.
 
 ---
 
@@ -37,13 +37,28 @@ This module handles LoRa mesh communication for Mesh in a Shell using the Wio SX
 
 ## Message Format (JSON)
 
-Example message payload sent over LoRa:
+Example JSON packet transmitted over LoRa:
 
 ```json
 {
-  "id": "MESH1234",
-  "msg": "Yes, copy that.",
-  "lat": 37.7749,
-  "lon": -122.4194,
-  "timestamp": "2025-03-30T14:23:00Z"
+  "to": "FFFF",
+  "from": "MESH1234",
+  "port": 1,
+  "id": 123456,
+  "payload": {
+    "text": "Yes, copy that.",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "timestamp": "2025-03-30T14:23:00Z"
+  }
 }
+
+---
+
+## Functions
+
+- `initLoRa()` – Initializes the SX1262 radio and SPI interface.
+- `sendLoRaJson(JsonDocument &doc)` – Sends a raw JSON document over the radio.
+- `sendMeshText(const char* to, const char* text, float lat, float lon, const char* timestamp)` – Builds a Meshtastic-compatible packet and transmits it.
+- `receiveLoRaMessage(JsonDocument &doc)` – Checks for an incoming packet and
+  parses it into a JSON document.
